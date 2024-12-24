@@ -17,7 +17,7 @@ The **RAG-App Evaluator** is a tool designed for evaluating and analyzing Retrie
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sango-07/RAG-App-Evaluator.git
    cd RAG-App-Evaluator
    ```
 2. Install the required dependencies:
